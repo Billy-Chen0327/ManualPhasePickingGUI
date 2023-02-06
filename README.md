@@ -6,7 +6,7 @@ A easy-to-deploy program for python users to pick seismic events.
 
 Events are saved as npz files, key word: 
 
-* Data: three component earthquake time series
+* data: three component earthquake time series
 * Parr: P-arrival, unit: second
 * Sarr: S-arrival, unit: second
 * fs: sampling rate
