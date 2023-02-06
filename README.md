@@ -19,4 +19,4 @@ Basic functions:
 * Search for event by typing the npz name (without '.npz')
 * Change the current picking event by the 'Before' and 'After' button
 * Save pick results by the 'Save' button
-* Delete unwanted events by the 'delete' button
+* Delete unwanted events by the 'Delete' button
